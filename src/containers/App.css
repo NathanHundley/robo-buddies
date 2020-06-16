@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Cheri Liney';
+font-style: normal;
+font-weight: normal;
+src: local('Cheri Liney'), url('CHERL___.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Cheri Liney';
+	font-wieght: 50;
+	color: #0ccac4;
+}
